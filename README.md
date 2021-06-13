@@ -1,2 +1,2 @@
-# pyomo_example
+# pyomo_examples
 Example using pyomo
