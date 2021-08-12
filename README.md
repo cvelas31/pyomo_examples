@@ -12,6 +12,7 @@ Various examples taken or adapated from the following resources.
 - https://github.com/jckantor/ND-Pyomo-Cookbook
 
 **NEOS Solver - How to use it**
+
 https://github.com/salvapineda/notebooks/blob/main/UserTimePyomoNeos.ipynb
 https://github.com/Pyomo/pyomo/issues/1784
 https://github.com/Pyomo/pyomo/issues/1817
